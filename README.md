@@ -24,5 +24,5 @@ Matlab Code
 
 ## Screenshots
 
-!(https://www.dropbox.com/s/1lgradjrcw17vql/Final_Assembly_2023-Mar-31_07-25-11PM-000_CustomizedView13126604710_png.png?dl=0)
+![alt text](https://github.com/harryrocket01/3rd-Year-Project-Serial-Parallel-Hybrid-Robotic-Manipulator/blob/main/lqPBbL_w.png?raw=true)
 
