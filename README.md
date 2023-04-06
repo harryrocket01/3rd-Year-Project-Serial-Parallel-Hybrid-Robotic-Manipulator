@@ -14,7 +14,7 @@ Supervisor: Dr. Chow Yin Lai
 Raspberry Pi Code
 - Main.py (Main program to run robotic arm)
 
-Light/dark mode toggle
+Matlab Code
 - FowardKin.m (Foward kinematic mathmatical model and graphing of robot)
 - InverseKin.m (Inverse kinematic mathmatical model and graphing of robot)
 - Trajectory_Map.m (Trajectory Planning mathmatical model and graphing of robot)
@@ -24,5 +24,5 @@ Light/dark mode toggle
 
 ## Screenshots
 
-![App Screenshot](https://www.dropbox.com/s/1lgradjrcw17vql/Final_Assembly_2023-Mar-31_07-25-11PM-000_CustomizedView13126604710_png.png?dl=0)
+!(https://www.dropbox.com/s/1lgradjrcw17vql/Final_Assembly_2023-Mar-31_07-25-11PM-000_CustomizedView13126604710_png.png?dl=0)
 
